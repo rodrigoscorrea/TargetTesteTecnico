@@ -1,0 +1,7 @@
+Questão 4
+a) 9 (próximo ímpar)
+b) 128 (próxima potência de 2)
+c) 49 (próxima potência do próprio número)
+d) 100 (próximo número par elevado ao quadrado)
+e) 13 (próximo número de fibonacci)
+f) 200 (próximo número que começa com a letra 'd')
